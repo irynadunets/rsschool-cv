@@ -25,7 +25,7 @@ I am enthusiastic  with building  reusable front-end components using **ReactJS*
 
 
 ### CODE EXAMPLES
-let makeNumber = ( String ) =&gt; String.split(&#39;&#39;) .filter(x =&gt; !isNaN(parseInt(x, 10))) .join(&#39;&#39;);
+let makeNumber = ( String ) =&gt; String.split(&#39;&#39;) .filter(x =&gt; (parseInt(x, 10))) .join(&#39;&#39;);
 
 ---
 
