@@ -54,7 +54,7 @@ Intermediate (B1)
 
 ### Additional education (courses, trainings) 
 - FRONT\_END\_JAVASCRIPT Online-training EPAM Ukraine
-                                      Winter 2019-2020
+                                      Winter 2019 - 2020
 - Responsive Website Basics: Code with HTML, CSS, and JavaScript, University of London &amp; Goldsmiths, University of London
 - Responsive Web Design, University of London &amp; Goldsmiths, University of London.
 - AngularJS: Framework Fundamentals Microsoft - DEV220x
